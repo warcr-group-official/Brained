@@ -1,0 +1,14 @@
+{
+  "schema": "neurosim.public_proof_log.v1",
+  "generated_at_utc": "2026-09-12T12:01:45.662280+00:00",
+  "internal_log_sha256": "2441601c7281f3b7113dc00c622b0010169240e0de108dda5343c5b2cd493b56",
+  "run_id": "a8851080-8123-463c-bca4-ca1efc447d5d",
+  "num_steps": 15,
+  "indicators": {
+    "limbic_hyperreactive": true,
+    "cortisol_elevated_at_any_step": true,
+    "dopamine_deficit_at_any_step": false,
+    "stability_index": 0.59
+  },
+  "verification_note": "To verify this proof log, recompute SHA-256 of internal_execution_full.json and compare against internal_log_sha256 above. Continuous variables, prompts, and raw API payloads are intentionally withheld from this file."
+}
